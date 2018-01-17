@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Manifest -->
+    <!-- <string name="app_name" translatable="false">Simple Torch Flashlight</string> -->
+
+    <!-- MainActivity -->
+    <string name="text_view">
+        You can click Home button to use Your phone
+        or Power button to turn off your screen
+        (single short click) - flashlight all the same will give light. \n
+        \n
+        To turn off the flashlight you need to click Back button from the application.
+    </string>
+
+
+    <!-- For Alert Dialogs -->
+
+    <!-- alertDialogAppStartError -->
+    <string name="app_start_error_title">Application start error</string>
+    <string name="app_start_error_message">
+        Camera and flashlight are missing on Your device or are not responding.
+        Application will be closed.
+    </string>
+
+    <!-- alertDialogCameraStartError -->
+    <string name="camera_start_error_title">Camera start error</string>
+    <string name="camera_statr_error_message">
+        Starting and getting parameters of camera failure. Camera is not responding.
+        Application will be closed.
+    </string>
+
+    <!-- alertDialog OnCancel Toast Text -->
+    <string name="alertdialog_oncancel_toast_text">
+        You can\'t cancel the dialog with button Back.
+        Click button OK in dialog.
+    </string>
+
+    <!-- alertDialogButton -->
+    <string name="ok" translatable="false">OK</string>
+
+
+
+
+
+
+</resources>
