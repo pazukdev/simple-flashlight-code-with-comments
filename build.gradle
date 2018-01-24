@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "by.pazuk1985.SimpleFlashlight"
         minSdkVersion 10
-        targetSdkVersion 22 // вот тут ставим 22-ую целевую версию
+        targetSdkVersion 22 // тут указываем 22-ую целевую версию 
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
