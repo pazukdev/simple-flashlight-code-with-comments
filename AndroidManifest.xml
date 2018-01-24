@@ -2,7 +2,7 @@
 
     package="by.pazuk1985.SimpleFlashlight">
 
-    <uses-permission android:name="android.permission.CAMERA" /> <!-- Вот эти 2 разрешения необходимо прописать.. -->
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- 2 разрешения, которые необходимо прописать.. -->
     <uses-feature android:name="android.hardware.camera" />      <!-- ..для того чтобы приложение получило доступ к камере -->
 
     <application
