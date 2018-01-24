@@ -1,7 +1,7 @@
 # Simple flashlight for Android with comments to code
 Code for simple flashlight app for Android phone with pretty detailed comments. Comments in Russian.
 <p/>
-Preface 
+About 
 <p/>
 As the first app for publication on Google Play was chosen some flashlight for phone.<br>
 Previously,  I read a number of articles on the topic of flashlight app for Android, explored a number of topics on Stackoverflow and watched a number of videos on Youtube.<br>
@@ -10,7 +10,7 @@ In attach with this, when I was writing my code, I got an idea of write detailed
 Warn in advance, that this flashlight's code don't pretend on actuality for realities of 2017. I used Camera and Parameters Classes, which are deprecated. AlertDialogs made not as fragments. targetSdkVersion in gradle is 22. App's Activity inheritanced from Activity, not from AppCompatActivity. All of the above is due to the fact, that I wanted min version of Android, with which my app should be compatible, was 2.3.3
 <p/>
 <p/>
-Preface (in Russian)
+About (in Russian)
 <p/>
 В качестве первого приложения для публикации на Google Play выбор пал на фонарик.<br>
 Предварительно, по теме фонарика на Android, было прочитано энное количество статей, просмотрен ряд топиков по теме на Stackoverflow и энное количество видео на Youtube.<br>
